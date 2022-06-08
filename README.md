@@ -27,4 +27,3 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 ```
 - - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
