@@ -11,7 +11,7 @@ SO THAT I can plan a trip accordingly
 ```
 ![image](https://user-images.githubusercontent.com/100245563/172690352-75e5a9de-1c1b-4177-a4f9-edb9c95e24d4.png)
 
-
+Site Deployment Link: https://sencefs.github.io/weather-dashboard/
 
 ```
 GIVEN a weather dashboard with form inputs
