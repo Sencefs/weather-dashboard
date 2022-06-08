@@ -1,0 +1,29 @@
+body {
+    background-color: indigo;
+    font-family: "Helevetica", sans-serif;
+}
+
+.daily-box h4 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.daily-box p {
+    font-size: 10px;
+}
+
+.previous-search {
+    text-transform: capitalize;
+    font-size: 25px;
+}
+
+#searched-cities button {
+    font-size: 20px;
+    background-color: gray;
+    color: white;
+    text-transform:capitalize;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 8px;
+}
